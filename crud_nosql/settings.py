@@ -24,7 +24,7 @@ LOCAL = os.path.dirname(os.path.abspath(__file__))
 SECRET_KEY = 'x@g0%u&j(cmqodfmkbz6vs$&fc^!egdo2#(@0uo4=3&=oq5sx8'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
